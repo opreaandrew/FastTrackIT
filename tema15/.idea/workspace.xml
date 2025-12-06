@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4acfb124-bae1-4c04-9376-55f3e37ea3c1" name="Changes" comment="Friggin tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/fasttrackit/TDD2/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/fasttrackit/TDD2/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ro/fasttrackit/TDD2/PersonServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ro/fasttrackit/TDD2/PersonServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ro/fasttrackit/TDD2/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ro/fasttrackit/TDD2/PersonTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XBuggVcq1UuWBIpi8GnHXiApvH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Andrei Oprea/IdeaProjects/Homework15"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ro.fasttrackit.TDD1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ro.fasttrackit.TDD2" />
+      <recent name="ro.fasttrackit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonTest">
+    <configuration name="PersonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.fasttrackit.TDD2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.fasttrackit.TDD2" />
+      <option name="MAIN_CLASS_NAME" value="ro.fasttrackit.TDD2.PersonServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceTest.addPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.fasttrackit.TDD2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.fasttrackit.TDD2" />
+      <option name="MAIN_CLASS_NAME" value="ro.fasttrackit.TDD2.PersonServiceTest" />
+      <option name="METHOD_NAME" value="addPerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceTest.removePerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.fasttrackit.TDD2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.fasttrackit.TDD2" />
+      <option name="MAIN_CLASS_NAME" value="ro.fasttrackit.TDD2.PersonServiceTest" />
+      <option name="METHOD_NAME" value="removePerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.fasttrackit.TDD2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.fasttrackit.TDD2" />
+      <option name="MAIN_CLASS_NAME" value="ro.fasttrackit.TDD2.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.validId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.fasttrackit.TDD2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.fasttrackit.TDD2" />
+      <option name="MAIN_CLASS_NAME" value="ro.fasttrackit.TDD2.PersonTest" />
+      <option name="METHOD_NAME" value="validId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonTest" />
+        <item itemvalue="JUnit.PersonServiceTest" />
+        <item itemvalue="JUnit.PersonServiceTest.removePerson" />
+        <item itemvalue="JUnit.PersonServiceTest.addPerson" />
+        <item itemvalue="JUnit.PersonTest.validId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4acfb124-bae1-4c04-9376-55f3e37ea3c1" name="Changes" comment="" />
+      <created>1698114909526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698114909526</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added dependencies">
+      <option name="closed" value="true" />
+      <created>1698115041073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698115041073</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Barely did anything">
+      <option name="closed" value="true" />
+      <created>1698202399189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698202399189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Barely did anything">
+      <option name="closed" value="true" />
+      <created>1698289305763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698289305763</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TDD1 finished, started TDD2">
+      <option name="closed" value="true" />
+      <created>1698376064988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698376064988</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TDD2 in curs">
+      <option name="closed" value="true" />
+      <created>1698421571137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698421571138</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Friggin tests">
+      <option name="closed" value="true" />
+      <created>1698469374730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698469374730</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Friggin tests">
+      <option name="closed" value="true" />
+      <created>1698496718154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698496718154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added dependencies" />
+    <MESSAGE value="Barely did anything" />
+    <MESSAGE value="TDD1 finished, started TDD2" />
+    <MESSAGE value="TDD2 in curs" />
+    <MESSAGE value="Friggin tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Friggin tests" />
+  </component>
+</project>
